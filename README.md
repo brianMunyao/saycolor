@@ -1,3 +1,3 @@
 # saycolor
 ## Text ⇌ Speech
-Say a color -> to change background
+Say a color -> Change background
